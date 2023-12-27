@@ -7,4 +7,7 @@ Take advantage of LangChain to exercise Gemini Pro in Vertex AI.
 - loads local image file
 - asks Gemini pro model to describe what's in the image and prints the result
 
+prompt_from_ui*.py
+- copied from Code panel of Vertex AI Studio example prompts
+
 
